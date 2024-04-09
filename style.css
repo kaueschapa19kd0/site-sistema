@@ -19,3 +19,10 @@ a:hover{
 a:visited{
     color: rgb(8, 8, 8);
 }
+a:hover{
+    color: blueviolet;
+    cursor: pointer;
+    background-color: aliceblue;
+    font-size: 2.0rem;
+    transition: 2s;
+}
